@@ -1,7 +1,7 @@
 if( global( 'sdk' ) > 0 ){
   main();
 } else {
-  flash('nope');
+  flash('nope2');
 }
 
 function main(){
